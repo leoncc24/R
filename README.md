@@ -15,7 +15,7 @@ The analysis uses FitBit Fitness Tracker Data (CC0: Public Domain) available on 
 - Caloric expenditure
 
 **Key Limitations:**
-- Small sample size (~33 users due to incompleted data)
+- Small sample size (33 users)
 - No demographic data
 - Limited to 2 months (2016)
 - Potential sampling bias
