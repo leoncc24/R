@@ -23,11 +23,11 @@ The analysis uses FitBit Fitness Tracker Data (CC0: Public Domain) available on 
 ##  Key Findings
 
 ###  Sleep Patterns
-![Sleep Chart](Average _Daily _Sleep _Minute.png)
+![Sleep Chart](Average_Daily_Sleep_Minute.png)
 - 50% of days showed users averaging <7 hours sleep (below recommended guidelines)
 
 ###  Physical Activity
-![Steps Chart](Average _Daily _Steps.png)
+![Steps Chart](Average_Daily_Steps.png)
 - 33% of days failed to meet 7,500 recommended steps
 - User classification:
   - 50% low-active/sedentary (<7,500 steps/day)
@@ -35,15 +35,15 @@ The analysis uses FitBit Fitness Tracker Data (CC0: Public Domain) available on 
   - 25% active/highly active (10,000+ steps/day)
 
 ###  Weekly Patterns
-![Weekly Activity](User _Intensities _over _week.png)
+![Weekly Activity](User_Intensities_over_week.png)
 - Highest activity: Saturdays
 - Lowest activity: Sundays
 
 ###  Device Engagement
-![Engagement Chart](User _Activity_ Levels _Based_ on _Daily_ Steps.png)
-- 88% frequent users (21-31 days)
-- 9% regular users (10-20 days)
-- 3% occasional users (<10 days)
+![Engagement Chart](User_Activity_Levels_Based_on_Daily_Steps.png)
+- 6% frequent users (21-31 days)
+- 69% regular users (10-20 days)
+- 26% occasional users (<10 days)
 
 ##  Recommendations
 
